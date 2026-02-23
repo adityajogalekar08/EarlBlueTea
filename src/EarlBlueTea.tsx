@@ -678,7 +678,8 @@ export default function EarlBlueTea({ config: configProp }: EarlBlueTeaProps) {
               </div>
             </div>
             <div className="border-t pt-8 flex flex-col md:flex-row justify-between items-center" style={{ borderColor: "#1e293b" }}>
-              <p className="text-sm" style={{ color: "#64748b" }}>© 2024 EarlBlue Tea. All rights reserved.</p>
+              <p className="text-sm" style={{ color: "#64748b" }}>© 2026 EarlBlue Tea. All rights reserved.</p>
+              <p className="text-sm" style={{ color: "#64748b" }}>For Demo. Designed by Aditya Jogalekar</p>
               <div className="flex gap-6 mt-4 md:mt-0">
                 <a href="#" className="text-sm hover:text-blue-400 transition-colors" style={{ color: "#64748b" }}>Privacy Policy</a>
                 <a href="#" className="text-sm hover:text-blue-400 transition-colors" style={{ color: "#64748b" }}>Terms of Service</a>
